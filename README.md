@@ -5,21 +5,21 @@ Mission impossible is een simpel communicatie systeem dat berichten verstuurd en
 
 **_als Ingelod_**
 
-3. Bericht - verstuurder schrijft een simpel bericht op hun keyboard en drukt op stuur. 
-4. Encrypt
-           - 4.1 verstuurder voert in een 6 cijferige code
-           - 4.2 verstuurder drukt op de '#' knop om het te confirmen
-           - 4.3 bericht wordt geencrypt op basis van code
-           - 4.4 verstuurder wordt automatisch uitgelogd
-6. Message
-           - 5.2 bericht wordt verstuurd
-           - 5.3 bericht wordt ontvangen
-7. Decrypt
-           - 6.1 ontvanger voert in [correcte] 6 cijferige code
-           - 6.2 ontvanger drukt op de '#' knop om het te confirmen
-           - 6.3 bericht wordt gedecrypt op basis van code
-           - 6.4 ontvanger drukt op 'enter' uitgelogd
-9. Bericht - ontvanger leest bericht
+2. Bericht - verstuurder schrijft een simpel bericht op hun keyboard en drukt op stuur. 
+3. Encrypt
+           - 3.1 verstuurder voert in een 6 cijferige code
+           - 3.2 verstuurder drukt op de '#' knop om het te confirmen
+           - 3.3 bericht wordt geencrypt op basis van code
+           - 3.4 verstuurder wordt automatisch uitgelogd
+4. Message
+           - 4.2 bericht wordt verstuurd
+           - 4.3 bericht wordt ontvangen
+5. Decrypt
+           - 5.1 ontvanger voert in [correcte] 6 cijferige code
+           - 5.2 ontvanger drukt op de '#' knop om het te confirmen
+           - 5.3 bericht wordt gedecrypt op basis van code
+           - 5.4 ontvanger drukt op 'enter' uitgelogd
+6. Bericht - ontvanger leest bericht
 *inloggen wordt doormiddel van vingerscans gedaan.
 ***
 
