@@ -4,6 +4,7 @@ Mission impossible is een simpel communicatie systeem dat berichten verstuurd en
 1. Signup - beide gebruikers moeten op start van applicatie hun vinger scannen om te zorgen dat zei de enige zijn met toegang tot het systeem.
 
 **_als Ingelod_**
+
 3. Bericht - verstuurder schrijft een simpel bericht op hun keyboard en drukt op stuur. 
 4. Encrypt
            - 4.1 verstuurder voert in een 6 cijferige code
